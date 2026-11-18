@@ -16,7 +16,7 @@
 | **Tennis Freak 3D** | Built solo, 20K+ downloads, Photon Fusion multiplayer at 100+ CCU under 120 ms, Python/MongoDB shop backend | [Video](https://youtu.be/5ELuYLRjpQo) · [App Store](https://apps.apple.com/in/app/tennis-freak/id6756810435) |
 | **CapsBall** | Real-time multiplayer football with Netcode for GameObjects | [Video](https://youtu.be/_NF-uWQusR8) |
 | **DeathMatch** | PC third-person shooter: squad AI (NavMesh), recoil and spread, vehicles | [Video](https://youtu.be/ZnCBKq7ok-0) |
-| **Operation Air Siege** | Flight combat with lift and torque physics | [Play on itch.io](https://faaraan72.itch.io/operation-air-seig) |
+| **Operation Air Siege** | Flight combat with lift and torque physics | [Video](https://youtu.be/60j869WZDJQ) |
 
 > Most of my production work (Photon Fusion multiplayer, Nakama, VR on Quest, game backends) lives in private company repositories. The videos above show it running. The repositories below are personal projects and code samples.
 
