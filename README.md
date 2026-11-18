@@ -22,9 +22,9 @@
 
 ## 💻 Code samples
 
-- **[YesChef](https://github.com/Faaraan72/YesChef)**: kitchen game in Unity 6 with an interface-based interaction system, ScriptableObject data, C# events and object pooling
-- **[UA_Faar](https://github.com/Faaraan72/UA_Faar)**: card-matching game with data-driven levels, an auto-scaling grid, a Fisher–Yates shuffle, combo scoring and JSON saves
-- **[Assignment_Paratrooper](https://github.com/Faaraan72/Assignment_Paratrooper)**: 2D arcade defence game with object-pooled bullets, bombing jets and paratroopers
+- **[Yes Chef!](https://github.com/Faaraan72/yes-chef-cooking-game)**: kitchen game in Unity 6 with an interface-based interaction system, ScriptableObject data, C# events and object pooling
+- **[Card Match](https://github.com/Faaraan72/card-match-game)**: card-matching game with data-driven levels, an auto-scaling grid, a Fisher–Yates shuffle, combo scoring and JSON saves
+- **[Paratrooper](https://github.com/Faaraan72/paratrooper-defense-game)**: 2D arcade defence game with object-pooled bullets, bombing jets and paratroopers
 
 ## 📫 Contact
 
